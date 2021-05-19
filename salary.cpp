@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int allow, rent;
+	float allow, rent;
 	float salary;
 	float gross;
 	printf("enter the salary");
